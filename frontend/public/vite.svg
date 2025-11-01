@@ -1,0 +1,17 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="90" cy="90" r="80" fill="url(#grad1)" />
+    <circle cx="90" cy="90" r="65" fill="white" />
+    <path d="M 30 90 A 60 60 0 0 1 90 30" fill="none" stroke="#FF6B6B" stroke-width="12" stroke-linecap="round" />
+    <path d="M 90 30 A 60 60 0 0 1 135 48" fill="none" stroke="#FFD93D" stroke-width="12" stroke-linecap="round" />
+    <path d="M 135 48 A 60 60 0 0 1 150 90" fill="none" stroke="#6BCF7F" stroke-width="12" stroke-linecap="round" />
+    <circle cx="90" cy="90" r="8" fill="#333" />
+    <line x1="90" y1="90" x2="125" y2="65" stroke="#667eea" stroke-width="4" stroke-linecap="round" />
+    <circle cx="90" cy="90" r="6" fill="#667eea" />
+    <text x="90" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#667eea" text-anchor="middle">CrUX</text>
+    <defs>
+        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+</svg>
